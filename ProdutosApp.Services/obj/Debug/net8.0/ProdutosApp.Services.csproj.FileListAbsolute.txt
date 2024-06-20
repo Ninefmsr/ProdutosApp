@@ -1,0 +1,144 @@
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\appsettings.Development.json
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\appsettings.json
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\ProdutosApp.Services.exe
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\ProdutosApp.Services.deps.json
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\ProdutosApp.Services.runtimeconfig.json
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\ProdutosApp.Services.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\ProdutosApp.Services.pdb
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\ProdutosApp.Services.csproj.AssemblyReference.cache
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\ProdutosApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\ProdutosApp.Services.AssemblyInfoInputs.cache
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\ProdutosApp.Services.AssemblyInfo.cs
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\ProdutosApp.Services.csproj.CoreCompileInputs.cache
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\ProdutosApp.Services.MvcApplicationPartsAssemblyInfo.cs
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\ProdutosApp.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\staticwebassets.build.json
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\staticwebassets.development.json
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\staticwebassets\msbuild.ProdutosApp.Services.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\staticwebassets\msbuild.build.ProdutosApp.Services.props
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProdutosApp.Services.props
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProdutosApp.Services.props
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\staticwebassets.pack.json
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\scopedcss\bundle\ProdutosApp.Services.styles.css
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\ProdutosApp.Services.csproj.CopyComplete
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\ProdutosApp.Services.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\refint\ProdutosApp.Services.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\ProdutosApp.Services.pdb
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\ProdutosApp.Services.genruntimeconfig.cache
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\ref\ProdutosApp.Services.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Azure.Core.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Azure.Identity.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\System.Memory.Data.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\ProdutosApp.Data.dll
+C:\CSharp SQS N 2024\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\ProdutosApp.Data.pdb
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\appsettings.Development.json
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\appsettings.json
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\ProdutosApp.Services.exe
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\ProdutosApp.Services.deps.json
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\ProdutosApp.Services.runtimeconfig.json
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\ProdutosApp.Services.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\ProdutosApp.Services.pdb
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Azure.Core.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Azure.Identity.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\System.Memory.Data.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\ProdutosApp.Data.dll
+C:\ProdutosApp\ProdutosApp.Services\bin\Debug\net8.0\ProdutosApp.Data.pdb
+C:\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\ProdutosApp.Services.csproj.AssemblyReference.cache
+C:\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\ProdutosApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\ProdutosApp.Services.AssemblyInfoInputs.cache
+C:\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\ProdutosApp.Services.AssemblyInfo.cs
+C:\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\ProdutosApp.Services.csproj.CoreCompileInputs.cache
+C:\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\ProdutosApp.Services.MvcApplicationPartsAssemblyInfo.cs
+C:\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\ProdutosApp.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\staticwebassets.build.json
+C:\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\staticwebassets.development.json
+C:\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\staticwebassets\msbuild.ProdutosApp.Services.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\staticwebassets\msbuild.build.ProdutosApp.Services.props
+C:\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProdutosApp.Services.props
+C:\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProdutosApp.Services.props
+C:\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\staticwebassets.pack.json
+C:\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\scopedcss\bundle\ProdutosApp.Services.styles.css
+C:\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\Produtos.E417CBF9.Up2Date
+C:\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\ProdutosApp.Services.dll
+C:\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\refint\ProdutosApp.Services.dll
+C:\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\ProdutosApp.Services.pdb
+C:\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\ProdutosApp.Services.genruntimeconfig.cache
+C:\ProdutosApp\ProdutosApp.Services\obj\Debug\net8.0\ref\ProdutosApp.Services.dll
